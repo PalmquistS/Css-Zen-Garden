@@ -1,4 +1,4 @@
-# Css-Zen-Garden
+# Inlämningsuppgift 2, Css-Zen-Garden
 
 Skapa ett eget Tema på en befintlig hemsida med hjälp av HTML och CSS
 Vad går uppgiften ut på ?
